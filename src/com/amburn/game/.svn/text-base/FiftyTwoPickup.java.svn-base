@@ -1,0 +1,9 @@
+package com.amburn.game;
+
+public class FiftyTwoPickup {
+	FiftyTwoPickup() { };
+	
+	public static void main(String args[]) {
+		System.out.println("Hello");
+	}
+}
